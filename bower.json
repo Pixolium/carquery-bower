@@ -1,0 +1,15 @@
+{
+  "name": "carquery-bower",
+  "version": "0.3.3",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "~1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chiefy/carquery-bower.git"
+  }
+}
