@@ -5,6 +5,9 @@
     ".jshintrc",
     "**/*.txt"
   ],
+  "main": [
+    "carquery.0.3.3.min.js"
+  ],
   "dependencies": {
     "jquery": "~1.8.0"
   },
