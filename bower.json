@@ -10,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/CarmaSys/carquery-bower.git"
+    "url": "git@github.com:Pixolium/carquery-bower.git"
   }
 }
